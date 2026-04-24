@@ -1,2 +1,2 @@
 # iRu'ya
-A pilot website for upcoming KICT FYP Dashboard
+A pilot website for upcoming KICT FYP Dashboard on KICT server.
