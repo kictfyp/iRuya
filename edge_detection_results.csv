@@ -1,0 +1,4 @@
+Algorithm,FPS,Avg_Time_ms,CPU_Usage_%
+Canny,1042.47,0.959,26.9
+Sobel,419.07,2.386,23.98
+Prewitt,779.86,1.282,25.91
